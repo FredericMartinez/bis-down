@@ -1,0 +1,51 @@
+/*----css du site Wireplast----*/
+
+
+/* reset
+color 
+orange: #ef501f 
+vert : #6cb83b
+jaune:#eaba16
+bleu : #008aa6
+gris : #373737
+
+typo:
+
+FontAwesome : 
+//reset*/
+
+body {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.col {
+    margin: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.rowEquipe {
+    background-color: #6d6d6d;
+}
+
+.LimeGreen{
+    background-color: #94C11F;
+}
+
+/*--------------------Responsive-----------------------*/
+/*----------MEDIAS----SCREEN---LES SEUILS-----------------*/
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+}
+
